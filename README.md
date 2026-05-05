@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Ingrid, i'm 24 and currently studying for a bachelors degree in programming and systems architecture at the University of Oslo.
+
 <!--
 **ingridnyl/ingridnyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
